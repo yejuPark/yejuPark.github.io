@@ -1,1 +1,1 @@
-yejuPark.github.io
+[MyPage](yejuPark.github.io)
